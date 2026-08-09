@@ -90,8 +90,11 @@ Site-wide hero, sits behind the title at 42% opacity. Landscape, moody, wide —
 - `images/d5-04-dive-slate.jpg` **(full-bleed)** — Sam’s slate. All three sites, entry and exit times, max and average depth, viz, temp, and a highlights column that ends — bottom right, underlined, with a doodle — MANTA!
 - `images/d5-02-green-turtle.jpg` — Sage’s green turtle. Kuefu, dive 1, 9:16.
 - `images/d5-03-clownfish-anemone.jpg` — Mae-jima, dive 2, 10:32.
+- `images/d5-04b-open-water.jpg` **(full-bleed)** — On the drift at Kuro-jima, a few minutes before anything happened.
+- `images/d5-05b-manta-reef.jpg` **(full-bleed)** — First sighting. Cephalic fins unrolled and mouth open — that’s feeding posture. It runs the ridge like this for the better part of twenty seconds.
+- 🎬 `video/d5-manta-reef.mp4` — The approach — GoPro, dive 3
+- `images/d5-06-manta-approach.jpg` **(full-bleed)** — Closing. Wingspan filling the frame.
 - `images/d5-05-manta.jpg` **(full-bleed)** — THE MANTA. Kuro-jima, West Drift, 18.7 m, 12:10. Standard reef manta, not a black morph. The single irreplaceable frame of the trip.
-- `images/d5-06-manta-approach.jpg` **(full-bleed)** — Ninety seconds earlier, coming in over the reef.
 - 🎬 `video/d5-manta.mp4` — THE MANTA — GoPro, dive 3
 - `images/d5-07-motobu-sunset.jpg` — 19:05, looking west off the point.
 - `images/d5-08-bise-fukugi.jpg` — The fukugi road at 19:30. It stays this dark all the way through.
@@ -178,6 +181,6 @@ Site-wide hero, sits behind the title at 42% opacity. Landscape, moody, wide —
 
 ## Totals
 
-- Images: **81** (+ 1 optional hero)
+- Images: **83** (+ 1 optional hero)
 - Audio: **2** (+ 1 easter egg)
-- Video: **8**
+- Video: **9**
