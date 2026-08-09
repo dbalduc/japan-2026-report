@@ -173,6 +173,9 @@ figure{margin:0 0 30px}
   position:relative; border-radius:12px; background:transparent;
   cursor:zoom-in; display:flex; align-items:center; justify-content:center;
 }
+/* hug the image so absolutely-positioned overlays anchor to the picture,
+   not to the empty track either side of a portrait shot */
+.shot:not(.ph){width:fit-content; max-width:100%; margin-inline:auto}
 .shot img{
   width:100%; height:auto; max-height:86vh; object-fit:contain;
   border-radius:12px; box-shadow:var(--shadow);
